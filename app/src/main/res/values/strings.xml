@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">首页</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="show">      本产品适用于所有背背佳使用者，共分为两种模式，第一种为摄像头方式，摄像头将全程监控，若出现驼背现象立刻发出提示和警告，第二种为传感器模式，
+    为方便您您更加舒适的使用传感器模式，在每次开始之前，我们会对各传感器位置进行调整。若您想要开始，请点击下方按钮</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
